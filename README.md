@@ -2,7 +2,7 @@ DOCUMENTATION
 ===
 
 ------
-This project was created as part of the hackathon event. Он был создан для решения проблемы поиска различных кружков и секций. Developed by SubCODers
+Этот проект был создан в рамках мероприятия Хатакон. Он был создан для решения проблемы поиска различных кружков и секций. Developed SubCODers/
 
 All rights reserved.
 ===
