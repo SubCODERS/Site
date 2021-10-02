@@ -1,4 +1,4 @@
-ПОХУЙ
+DOCUMENTATION
 ===
 
 ------
