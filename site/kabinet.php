@@ -40,7 +40,7 @@
                    <p class="description">
                    </p>
                  </div>
-                 <a href="#" class="read">Узнать больше</a>
+                 <a href="https://klgd.pfdo.ru/app/the-navigator/navigator" class="read">Узнать больше</a>
                </div>
              </div>
              <div class="col-md-3 col-sm-6">
@@ -53,7 +53,7 @@
                    <p class="description">
                    </p>
                  </div>
-                 <a href="#" class="read">Узнать больше</a>
+                 <a href="https://klgd.pfdo.ru/app/the-navigator/navigator" class="read">Узнать больше</a>
                </div>
              </div>
 
@@ -67,15 +67,15 @@
                  <p class="description">
                  </p>
                </div>
-               <a href="https://klgd.pfdo.ru/app" class="read">Узнать больше</a>
+               <a href="https://klgd.pfdo.ru/app/the-navigator/navigator" class="read">Узнать больше</a>
              </div>
-          <div class="map">
-            <span class="sections_around_me">
-              <a href="https://klgd.pfdo.ru/app/the-navigator/navigator" style="text-decoration: none;">
-                Посмотреть секции рядом со мной
-              </a>
-            </span>
+            <div class="map">
+              <span class="sections_around_me">
+                <a href="https://klgd.pfdo.ru/app/the-navigator/navigator" style="text-decoration: none; display: flex; padding-top: 18px; font-size: 17px; font-weight: 600; ">
+                  Посмотреть секции рядом со мной
+                </a>
+              </span>
+            </div>
           </div>
-         </div>
-       </div>
+        </div>
 
